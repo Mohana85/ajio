@@ -55,7 +55,7 @@ public class AjioClone {
         JPanel footer = new JPanel();
         footer.setBackground(new Color(50, 50, 70));
         footer.setPreferredSize(new Dimension(1000, 50));
-        JLabel foot = new JLabel("© 2025 AJIO Clone | Developed by Harshitha,Viswitha,Sravanthi");
+        JLabel foot = new JLabel("© 2025 AJIO Clone | Developed by lakshmi");
         foot.setForeground(Color.WHITE);
         footer.add(foot);
         frame.add(footer, BorderLayout.SOUTH);
